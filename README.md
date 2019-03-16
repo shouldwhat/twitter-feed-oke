@@ -20,6 +20,6 @@ On successful build, you can run the app with `sh target/bin/start` which is a s
 Deploy
 ======
 
-You will create Wercker pipelines to build, publish, and deploy this microservice during the workshop.
+You will create Wercker pipelines to build, publish, and deploy this microservice during the workshop..
 
 
